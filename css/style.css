@@ -14,21 +14,6 @@ Full Stack Python 2020
     min-height: 700px;
 }
 
-#competencias > div >  h3 {
-    color: white;
-}
-
-#equipo {
-    padding-top: 60px;
-    padding-bottom: 60px;
-}
-
-#enlaces {
-    color:white;
-    padding-top: 60px;
-    min-height: 100%;
-}
-
 .navbar a {
     font-weight: bold;
 }
